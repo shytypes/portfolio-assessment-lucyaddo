@@ -2,7 +2,43 @@
 * {
   margin: 0px;
   padding: 0px;
+  background: burlywood;
+  
 }
+
+h1 {
+  color: purple;
+  font-family: 'JetBrains Mono';
+  background-color: lightgoldenrodyellow;
+  height: 50px;
+  padding: 20px;
+}
+
+p {
+  color: purple;
+  background-color: lightgoldenrodyellow;
+  font-family: 'JetBrains Mono';
+  width: 50%;
+  padding: 1rem;
+
+}
+
+img {
+  width: 25%;
+  height: auto;
+  border-radius: 10px;
+  padding: center;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: row-reverse;
+}
+
+
 
 /*title text style*/
 /* the font-family 'JetBrains Mono', has been linked
