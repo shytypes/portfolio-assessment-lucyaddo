@@ -4,6 +4,20 @@
   padding: 0px;
 }
 
+div {
+  background-color: bisque;
+} 
+
+h1 {
+  color: purple;
+  font-family: 'JetBrains Mono';
+}
+
+p {
+  color: purple;
+  font-family: 'JetBrains Mono';
+}
+
 /*title text style*/
 /* the font-family 'JetBrains Mono', has been linked
  * and is available for your use
